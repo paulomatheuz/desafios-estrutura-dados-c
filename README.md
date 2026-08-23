@@ -41,6 +41,4 @@ Este repositório representa parte da minha trajetória acadêmica e do processo
 
 ### 🚀 Cada exercício é mais um passo na construção de uma base sólida em desenvolvimento de software.
 
-**Estudando • Praticando • Construindo • Evoluindo**
-
 </div>
