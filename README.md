@@ -4,7 +4,7 @@ Repositório dedicado às atividades desenvolvidas durante a disciplina de **Mod
 
 Aqui registro exercícios, desafios e pequenos projetos desenvolvidos ao longo da matéria, utilizando a **linguagem C** para colocar em prática os conceitos apresentados durante as aulas.
 
-A proposta deste repositório não é reunir aplicações complexas, mas documentar minha **evolução prática durante a disciplina**, acompanhando o desenvolvimento dos exercícios e projetos realizados ao longo do semestre.
+A proposta deste repositório é documentar minha **evolução prática durante a disciplina**, acompanhando o desenvolvimento dos exercícios e projetos realizados ao longo do semestre.
 
 ---
 
